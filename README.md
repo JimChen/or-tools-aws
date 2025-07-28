@@ -1,2 +1,3 @@
 # or-tools-aws
-Google OR Tools for Amazon AWS
+**Google OR Tools for Amazon AWS**
+> Please check the release.
